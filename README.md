@@ -25,8 +25,16 @@ Here are some ideas to get you started:
 
 
 ##### Skills
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,python,figma,ai" />
+  </a>
+</p>
 
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+
+##### Connect with me
+
+![https://www.instagram.com/kpin.e?igsh=MW8zeTJkcGZkeGFxNw==](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.behance.net/kevinhaikal](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=w) 
 
 
 
