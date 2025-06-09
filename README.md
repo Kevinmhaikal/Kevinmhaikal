@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 - 🌱 I'm currently practicing coding challenges on [**HackerRank**](https://www.hackerrank.com/profile/kevinmuhhaikal) 📖
 
+- 😄 He/Him
 
 ##### Skills
 
