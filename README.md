@@ -19,7 +19,10 @@ Here are some ideas to get you started:
 
 - 🌱 I'm currently practicing coding challenges on [**HackerRank**](https://www.hackerrank.com/profile/kevinmuhhaikal) 📖
 
+
 - 😄 He/Him
+
+
 
 ##### Skills
 
@@ -27,4 +30,8 @@ Here are some ideas to get you started:
 
 
 
+
 ![Anime](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG9hZXkxaWM2aGhocDVpbHF0eGpnZzRtb255NDR6cXFmNjVmOXpiaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/naiatn5LxTOsU/giphy.gif)
+
+![Anime](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG9hZXkxaWM2aGhocDVpbHF0eGpnZzRtb255NDR6cXFmNjVmOXpiaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/naiatn5LxTOsU/giphy.gif)
+
