@@ -30,6 +30,15 @@
 ### Hello, I'm Kevin Muhammad Haikal 👋
 
 
+<div align="center">
+  <img height="240" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajY4ZGl5OXhmbGY3OXR5NG9mMnRtcXgwMzJiNDhzNXQ4aDd3eXdzZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/7g1zoXsyH7hGnyysG4/giphy.gif"  />
+</div>
+
+- 🌱 I'm currently practicing coding challenges on [**HackerRank**](https://www.hackerrank.com/profile/kevinmuhhaikal) 📖
+
+
+- 😄 He/Him
+
 ##### 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/kevinhaikal) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kpin.e) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kevinmuhhaikal@gmail.com) 
 
@@ -50,3 +59,15 @@
 [![](https://visitcount.itsvg.in/api?id=Kevinmhaikal&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kevinmhaikal/Kevinmhaikal/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kevinmhaikal/Kevinmhaikal/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Kevinmhaikal/Kevinmhaikal/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<img src="https://raw.githubusercontent.com/Kevinmhaikal/Kevinmhaikal/output/snake.svg" alt="Snake animation" />
+
+###
